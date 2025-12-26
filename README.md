@@ -196,7 +196,7 @@ git submodule add <url>          # Add a submodule
 
 ---
 
-## ⭐ MOST IMPORTANT COMMANDS
+##  MOST IMPORTANT COMMANDS
 
 ```bash
 git clone
