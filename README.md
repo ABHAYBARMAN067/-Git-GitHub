@@ -220,4 +220,3 @@ GitHub = Online Repository
 
 ---
 
-Perfect for **beginners, interviews & real projects**
